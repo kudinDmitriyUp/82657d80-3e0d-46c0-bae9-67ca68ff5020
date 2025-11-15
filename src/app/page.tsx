@@ -41,7 +41,7 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroBillboardCarousel
-          title="Experience Unmatched Luxury"
+          title="Book Your Luxury Escape Today"
           description="Discover the perfect blend of elegance and comfort at our award-winning hotel"
           tag="Welcome"
           tagIcon={Crown}
