@@ -82,7 +82,7 @@ export default function Home() {
 
       <div id="about" data-section="about">
         <SplitAbout
-          title="Exceptional Service & Hospitality"
+          title="Why Choose Grandeur Hotel"
           description="Our commitment to excellence ensures every guest experiences the highest level of luxury and comfort throughout their stay"
           tag="Our Promise"
           tagIcon={Shield}
