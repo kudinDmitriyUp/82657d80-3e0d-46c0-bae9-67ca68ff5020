@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
 import HeroBillboardCarousel from '@/components/sections/hero/HeroBillboardCarousel';
@@ -11,7 +11,7 @@ import SocialProofOne from '@/components/sections/socialProof/SocialProofOne';
 import FaqDouble from '@/components/sections/faq/FaqDouble';
 import ContactCenter from '@/components/sections/contact/ContactCenter';
 import FooterSocial from '@/components/sections/footer/FooterSocial';
-import { Award, BedDouble, Briefcase, Building, Calendar, ChefHat, Clock, Crown, Dumbbell, Gift, HelpCircle, Heart, MessageCircle, Shield, Sparkles, Star, Waves } from "lucide-react";
+import { Award, BedDouble, Briefcase, Building, Calendar, ChefHat, Clock, Crown, Dumbbell, Gift, HelpCircle, Heart, MessageCircle, Shield, Sparkles, Star, Waves, Instagram, Facebook, Twitter } from "lucide-react";
 
 export default function Home() {
   return (
@@ -399,17 +399,17 @@ export default function Home() {
           copyrightText="© 2025 Grandeur Hotel. All rights reserved."
           socialLinks={[
             {
-              icon: "Instagram",
+              icon: Instagram,
               href: "https://instagram.com/grandeurhotel",
               ariaLabel: "Follow us on Instagram"
             },
             {
-              icon: "Facebook",
+              icon: Facebook,
               href: "https://facebook.com/grandeurhotel",
               ariaLabel: "Follow us on Facebook"
             },
             {
-              icon: "Twitter",
+              icon: Twitter,
               href: "https://twitter.com/grandeurhotel",
               ariaLabel: "Follow us on Twitter"
             }
