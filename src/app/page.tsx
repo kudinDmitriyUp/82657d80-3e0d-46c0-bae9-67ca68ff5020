@@ -110,7 +110,7 @@ export default function Home() {
               icon: Heart
             }
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32m5rRdd38TAyU0DZCqvrl288SF/uploaded-1763198072976-71q41szg.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32m5rRdd38TAyU0DZCqvrl288SF/uploaded-1761910840868-rauyv8qk.jpg"
           imageAlt="Hotel concierge providing personalized service"
           imagePosition="right"
         />
